@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning a course <a href="https://ksendzov.com/">Vadym Ksendzov</a>
 - 📫 How to reach me in telegram:<a href ="https://t.me/dsanoxy">@dsanoxy</a>
  
- You can see my homework <a href="https://github.com/mynameisnoxy/examples-of-homework">here</a>
+ You can see my homework <p href="https://github.com/mynameisnoxy/examples-of-homework">here</p>
 
 
 
