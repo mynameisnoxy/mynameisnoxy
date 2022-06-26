@@ -10,7 +10,5 @@
 - 🌱 I’m currently learning a course <a href="https://ksendzov.com/">Vadym Ksendzov</a>
 
 <!-- Контактные данные -->
-Connect with me:
 
 
-<img src="https://user-images.githubusercontent.com/99750681/175828675-bf454e1f-a2de-4a38-a0e9-75006d86af5a.png" alt="в">
