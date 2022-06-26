@@ -8,6 +8,7 @@
 <!-- Рассказ о себе: -->
 - 🐝 Now I'm looking for a job - <a href="https://yadi.sk/i/XPUAR-lh7mb0gQ">resume</a>
 - 🌱 I’m currently learning a course <a href="https://ksendzov.com/">Vadym Ksendzov</a>
+- 📫 How to reach me in telegram:<a href ="https://t.me/dsanoxy">@dsanoxy</a>
 
 <!-- Контактные данные -->
 
